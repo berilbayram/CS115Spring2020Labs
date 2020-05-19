@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 28 11:45:35 2019
-
-@author: b
-"""
-
-
 class Song:
 
     def __init__(self, title, artist, duration):
